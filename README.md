@@ -1,11 +1,11 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <h1>Hi 👋, I'm Irfan</h1>
+      <h1>Hi 👋, I'm Parshuram</h1>
       <h4>A Software Developer passionate about building user-friendly products, solving problems, and learning continuously.</h4>
     </td>
     <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=irfan106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=parshuKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     </td>
   </tr>
 </table>
