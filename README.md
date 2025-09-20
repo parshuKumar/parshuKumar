@@ -20,20 +20,18 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working as a *Software Developer* at *Birla Pivot (Aditya Birla Group)*
-- 💼 Previously part-time at *Visual Alpha*, a Tokyo-based startup  
-- 📱 Built mobile & web apps using *React Native, **React.js, **Material-UI, and **Firebase*  
-- 🧩 Full-stack experience with *TypeScript, **GraphQL, **Laravel*  
-- 🧠 Solved *1,000+ DSA problems* on *LeetCode* & *GeeksforGeeks*  
-- 🌱 Exploring *Next.js, **Machine Learning, and **clean architecture*  
-- 🎓 B.Tech in *Engineering Physics* from *DTU (Delhi Technological University)*
+- 👨‍💻 Aspiring **Software Developer** focused on full-stack web development  
+- 💻 Built projects like **CampusMatch (dating app)**, **BookMyLawyer**, **Swiggy API integration site**, and a **Nike landing page**  
+- 🧩 Strong in **Data Structures & Algorithms**, practicing on **LeetCode** and **CodeChef**  
+- 🌱 Currently learning **React, Next.js, TypeScript**, and exploring **competitive programming**  
+- 🎓 Pursuing **MCA**, with a passion for creating scalable and user-friendly applications
 
 ---
 
 ## 🌐 Portfolio & Resume
 
-- 🔗 *Portfolio*: [portfolio-irfan-2504.netlify.app](https://portfolio-irfan-2504.netlify.app/)  
-- 📄 *Resume*: [Download Here](https://drive.google.com/file/d/1HcjrkGpMVkFDIupr_u3cg5ZVYLx0hAxU/view?usp=sharing)
+- 🔗 *Portfolio*: [parshuramkumar.vercel.app/](https://parshuramkumar.vercel.app/)  
+- 📄 *Resume*: [Download Here](https://drive.google.com/file/d/1DdrW_FCDBkpcpj5AAeLoi7vneHAcIzq_/view?usp=sharing)
 
 ---
 
