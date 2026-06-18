@@ -31,7 +31,7 @@
 ## 🌐 Portfolio & Resume
 
 - 🔗 *Portfolio*: [parshuramkumar.vercel.app/](https://parshuramkumar.vercel.app/)  
-- 📄 *Resume*: [Download Here](https://drive.google.com/file/d/1DdrW_FCDBkpcpj5AAeLoi7vneHAcIzq_/view?usp=sharing)
+- 📄 *Resume*: [Download Here](https://drive.google.com/file/d/1LxrufqS8ukMbqxMW1BHTjS0EC55FgwLm/view?usp=sharing)
 
 ---
 
