@@ -37,6 +37,12 @@ RAG document QA with source citation. 800-token chunking, Gemini embeddings, cos
 
 ## Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,nestjs,fastapi,python,mysql,postgres,mongodb,redis&theme=dark" alt="Backend stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,githubactions,jenkins,git,postman,cpp&theme=dark" alt="Frontend and infra" />
+</p>
+
 | | |
 |---|---|
 | **Languages** | TypeScript, JavaScript (Node.js), Python, SQL, C/C++ |
