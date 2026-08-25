@@ -57,8 +57,6 @@ RAG document QA with source citation. 800-token chunking, Gemini embeddings, cos
 
 ## Elsewhere
 
-450+ problems on LeetCode, 136+ on GeeksforGeeks. Currently going deeper on systems design and Kubernetes-side operability.
+480+ problems on LeetCode, 136+ on GeeksforGeeks. Currently going deeper on systems design and Kubernetes-side operability.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshuKumar&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="Top languages" />
-</p>
+<p align="left"> <a href="https://www.npmjs.com/package/prod-alert-sentry"><img src="https://img.shields.io/npm/dt/prod-alert-sentry?style=for-the-badge&logo=npm&logoColor=white&label=prod-alert-sentry%20downloads&color=0d1117" alt="npm downloads" /></a> <a href="https://www.npmjs.com/package/prod-alert-sentry"><img src="https://img.shields.io/npm/v/prod-alert-sentry?style=for-the-badge&logo=npm&logoColor=white&color=0d1117" alt="npm version" /></a> <a href="https://github.com/parshuKumar"><img src="https://img.shields.io/github/followers/parshuKumar?style=for-the-badge&logo=github&logoColor=white&label=followers&color=0d1117" alt="GitHub followers" /></a> </p> <p align="left"> <img src="https://leetcard.jacoblin.cool/Parshuram01?theme=dark&font=source_code_pro&ext=activity" height="200" alt="LeetCode stats" /> </p>
