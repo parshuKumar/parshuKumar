@@ -5,7 +5,7 @@ Node.js · TypeScript · MySQL · Redis · AWS
 
 I build systems that stay correct when things go wrong: duplicate webhooks, lost locks, dead Redis, racing workers. Most of my work is in production call-center and legal-consultation infrastructure — high write concurrency, unreliable third-party event delivery, and hard auditability requirements.
 
-[Portfolio](https://parshuramkumar.vercel.app) · [LeetCode](https://leetcode.com/u/Parshuram01/) · [Email](mailto:parshuramkumarsde@gmail.com)
+[LeetCode](https://leetcode.com/u/Parshuram01/) · [Email](mailto:parshuramkumarsde@gmail.com)
 
 ---
 
